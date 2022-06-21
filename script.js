@@ -1,6 +1,6 @@
 var name
 
-var age
+var height
 
 var country
 
