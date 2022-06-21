@@ -7,8 +7,8 @@ var country
 
 name=prompt("enter your name :","")
 
-age=prompt("enter your age :","")
+height=prompt("enter your height :","")
 
 country=prompt("enter your country :","")
 
-document.write(name+ " is " +age+ " years old " +country+ " citizen ")
+document.write(name+ " is " +height+ " cm " +country+ " citizen ")
